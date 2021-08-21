@@ -1,0 +1,15 @@
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\bin\Debug\netcoreapp3.1\HakSistemi.exe
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\bin\Debug\netcoreapp3.1\HakSistemi.deps.json
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\bin\Debug\netcoreapp3.1\HakSistemi.runtimeconfig.json
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\bin\Debug\netcoreapp3.1\HakSistemi.runtimeconfig.dev.json
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\bin\Debug\netcoreapp3.1\HakSistemi.dll
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\bin\Debug\netcoreapp3.1\HakSistemi.pdb
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.csproj.AssemblyReference.cache
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.Form1.resources
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.csproj.GenerateResource.cache
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.AssemblyInfoInputs.cache
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.AssemblyInfo.cs
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.csproj.CoreCompileInputs.cache
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.dll
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.pdb
+C:\Users\fb_be\source\repos\HakSistemi\HakSistemi\obj\Debug\netcoreapp3.1\HakSistemi.genruntimeconfig.cache
